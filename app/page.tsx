@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main style={{ padding: "40px", fontFamily: "Arial, sans-serif" }}>
+    <main style={{ padding: 40, fontFamily: "Arial, sans-serif" }}>
       <h1>Escala de Trabalho – Padaria</h1>
 
       <p>
@@ -36,7 +36,7 @@ export default function Home() {
 
       <hr />
 
-      <p style={{ fontSize: "12px", color: "#555" }}>
+      <p style={{ fontSize: 12, color: "#555" }}>
         Escala informativa – alterações somente pela administração.
       </p>
     </main>
